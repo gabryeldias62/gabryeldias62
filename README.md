@@ -1,5 +1,5 @@
 ### Olá, eu sou Gabryel Dias 👋
-Atualmente desenvolvedor e estudante PYTHON!
+
 
 
   
